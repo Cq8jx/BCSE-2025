@@ -1,6 +1,0 @@
-{
-    "files.exclude": {
-        "AGENTS.md": true,
-        "AGENTS_GAS.md": true
-    }
-}
